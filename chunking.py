@@ -16,7 +16,7 @@ lc_semantic_chunker = SemanticChunker(
 Work = ["the hunger artist", "A-country-doctor-by-Franz-Kafka", "AN_IMPERIAL_MESSAGE", 
      "Before the law", "in-the-penal-colony", 
      "Jackals and Arabs", "Metamorphosis","Franz Kafka-The Castle (Oxford World's Classics) (2009)", "The Trial - Franz Kafka"]
-personal=['Dearest Father','the-diaries_text','Kafkaesque']
+personal=['max interview','letters-to-felice','letters_to_milena','Kafka_life','Dearest Father','the-diaries_text','Kafkaesque']
 
 import re
 
