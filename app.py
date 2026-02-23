@@ -1,5 +1,5 @@
 import streamlit as st
-from testing import kafka_rag_answer
+from main import kafka_rag_answer
 
 st.set_page_config(
     page_title="Kafka Conversational AI",

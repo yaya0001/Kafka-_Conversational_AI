@@ -7,7 +7,7 @@ embeddings = OllamaEmbeddings(model="nomic-embed-text")
 
 def load_db():
     vectordb = Chroma(
-        persist_directory="C:\\Users\\DPQUAI250130\\lang_env\\Scripts\\RAG\\kafka_db",
+        persist_directory=".\kafka_db",
         embedding_function=embeddings
     )
     print("DB is ready.")
